@@ -1,0 +1,5 @@
+Lab 9/5/19
+In the previous week I have looked into fixing a problem with our microcontroller that can't connect to the tamu wifi. 
+This is due to the connection security being WPA2 Enterprise which my device doesn't have code to handle.
+Corrections being looked into are asking IT about a hotspot as well as looking into other single board computers.
+I have also started looking at the EEG sensor we have to develop code for which has been changed multiple times.
