@@ -3,3 +3,8 @@ In the previous week I have looked into fixing a problem with our microcontrolle
 This is due to the connection security being WPA2 Enterprise which my device doesn't have code to handle.
 Corrections being looked into are asking IT about a hotspot as well as looking into other single board computers.
 I have also started looking at the EEG sensor we have to develop code for which has been changed multiple times.
+
+Lab 9/12/19
+In the past week I have gotten with IT to get permission to connect the device to the IOT network.
+I am currently providing IT with the devices' mac addresses and team member names to get permission.
+I have also worked with Gabe to attempt to connect with the database.
