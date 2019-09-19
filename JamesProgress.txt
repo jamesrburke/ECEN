@@ -8,3 +8,9 @@ Lab 9/12/19
 In the past week I have gotten with IT to get permission to connect the device to the IOT network.
 I am currently providing IT with the devices' mac addresses and team member names to get permission.
 I have also worked with Gabe to attempt to connect with the database.
+
+Lab 9/19/19
+In the past week I have resolved the connection to the TAMU IOT wifi.
+I have also got with Nadine and ordered an accelerometer I can code with and test.
+We have also recieved a new EEG and will begin to code for it.
+I am working with Gabe to connect with the AWS server.
