@@ -25,3 +25,9 @@ Lab 10/10/19
 Completed working accelerometer code.
 
 Lab 10/17/19
+Work with Gabe to publsih data to database.
+Having trouble with GPS, it used to work and now it does not with the same code as before.
+
+Lab 10/24/19
+Work on calibrating accelerometer values.
+Project is intergrating well and starting to wrap up.
